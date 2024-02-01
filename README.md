@@ -42,7 +42,7 @@ Hi there,<br>Hardik Kalra - Innovating at the Intersection of Code and Creativit
 
 
 <div align="center">
-  <img height="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
+  <img height="700" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
 
