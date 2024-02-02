@@ -1,5 +1,6 @@
 ![image](https://github.com/hardik5555/hardik5555/assets/103363985/b01d382c-e973-4eac-83b5-a00898130b47)
 
+[![](https://visitcount.itsvg.in/api?id=hardik5555&icon=8&color=11)](https://visitcount.itsvg.in)
 
 #  About Me:
 Hi there,<br>Hardik Kalra - Innovating at the Intersection of Code and Creativity<br>A Third Year Student pursuing B.Tech in Computer Science Engineering @ SRM University<br><br>I play drums sometimes and like things that make a difference.
@@ -53,8 +54,6 @@ Hi there,<br>Hardik Kalra - Innovating at the Intersection of Code and Creativit
 <div align="left">
   <img height="370" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=hardik5555&icon=8&color=11)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hardik5555&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
