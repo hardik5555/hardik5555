@@ -66,9 +66,8 @@ Hi there,<br>Hardik Kalra - Innovating at the Intersection of Code and Creativit
 ![](https://github-contributor-stats.vercel.app/api?username=hardik5555&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
-<div align="center">
-  <img height="450" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
+<div align="left">
+  <img height="370" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
 </div>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
