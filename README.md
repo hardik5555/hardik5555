@@ -6,7 +6,7 @@ Hi there,<br>Hardik Kalra - Innovating at the Intersection of Code and Creativit
 
 
 <div align="center">
-  <img height="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"  />
+  <img height="400" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"  />
 </div>
 
 ## 🌐 Socials:
@@ -50,8 +50,8 @@ Hi there,<br>Hardik Kalra - Innovating at the Intersection of Code and Creativit
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hardik5555&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik5555&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img height="100" src="https://user-images.githubusercontent.com/56996/35211232-f0e23a70-ff98-11e7-8970-1aff845f3eb0.gif"/>
+<div align="left">
+  <img height="370" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=hardik5555&icon=8&color=11)](https://visitcount.itsvg.in)
@@ -67,7 +67,7 @@ Hi there,<br>Hardik Kalra - Innovating at the Intersection of Code and Creativit
 
 
 <div align="center">
-  <img height="700" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+  <img height="450" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
 </div>
 
 
