@@ -40,7 +40,6 @@ Hi there,<br>Hardik Kalra - Innovating at the Intersection of Code and Creativit
 
 
 
-![image](https://github.com/hardik5555/hardik5555/assets/103363985/b9356dbd-58be-4cb6-9143-b21d345d841c)
 
 
 
