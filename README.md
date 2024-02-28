@@ -52,17 +52,15 @@ Hi there,<br>Hardik Kalra - Innovating at the Intersection of Code and Creativit
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hardik5555&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hardik5555&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="left">
-  <img height="370" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
-</div>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hardik5555&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 
-
 <div align="left">
-  <img height="370" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
+  <img height="370" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 </div>
+
+
+
 
 
